@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @vazqueje
+- 👋 Jessica Vazquez, @vazqueje
 - 👀 I’m interested in cybersecurity!
-- 🌱 I’m currently learning FSO neighbor discovery algorithms
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently researching neighbor discovery algorithms in free-space optical wireless ad hoc networks
 - 📫 How to reach me: vazqueje@miamioh.edu
 
 <!---
