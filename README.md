@@ -1,6 +1,6 @@
 - 👋 Jessica Vazquez, @vazqueje
 - 👀 I’m interested in cybersecurity!
-- 🌱 I’m currently researching neighbor discovery algorithms in free-space optical wireless ad hoc networks
+- 🌱 I’m currently researching communication and network security.
 - 📫 How to reach me: vazqueje@miamioh.edu
 
 <!---
